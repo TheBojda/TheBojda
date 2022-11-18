@@ -10,6 +10,8 @@ Some words about me:
 - 🤖 I am also a contributing writer of [Hacker Noon](https://hackernoon.com/u/thebojda)
 - 🤓 Most of my articles are about blockchain and decentralization, deeplearning and AI, technology and programming.
 
+My ars poetica: "Every single small thing can have a huge impact. Just do it! Do something cool today…" (read my full article [here](https://medium.com/geekculture/how-to-change-the-world-pocket-guide-for-people-with-a-messiah-complex-dd2d16bb92a))
+
 You can also find all of my Medium articles in [this GitHub repo](https://github.com/TheBojda/my-medium-blog), and a backup of my older hungarian blogs [here](https://github.com/TheBojda/my-wordpress-blog) and [here](https://github.com/TheBojda/my-gp-blog).
 
 For more info, read my articles on Medium or HackerNoon, or check my repos.
