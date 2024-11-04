@@ -15,7 +15,7 @@ Some words about me:
 
 My ars poetica: "Every single small thing can have a huge impact. Just do it! Do something cool today…" (read my full article [here](https://medium.com/geekculture/how-to-change-the-world-pocket-guide-for-people-with-a-messiah-complex-dd2d16bb92a))
 
-You can also find all of my Medium articles in [this GitHub repo](https://github.com/TheBojda/my-medium-blog), and a backup of my older Hungarian blogs [here](https://github.com/TheBojda/my-wordpress-blog) and [here](https://github.com/TheBojda/my-gp-blog).
+You can also find all of my Medium articles on [my GitHub page](https://thebojda.github.io/), and a backup of my older Hungarian blogs [here](https://github.com/TheBojda/my-wordpress-blog) and [here](https://github.com/TheBojda/my-gp-blog).
 
 For more info, read my articles on Medium or HackerNoon, or check my repos.
 
